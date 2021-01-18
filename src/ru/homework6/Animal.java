@@ -22,7 +22,6 @@ public abstract class Animal {
         Dog dog = new Dog(500, (double) 0.5,10);
         Dog dog1 = new Dog(600, (double) 0.4,7);
 
-        //voice(cat);
             cat.run();
             cat.jump();
             cat.swimming();
@@ -34,8 +33,6 @@ public abstract class Animal {
             dog1.run();
             dog1.jump();
             dog1.swimming();
-
-	// write your code here
     }
 
 
